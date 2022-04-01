@@ -1,46 +1,22 @@
-# Frontend Mentor - Order summary card solution
-
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
-### Screenshot
-
-![](./screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/CodinGitHub/Challenge-8-order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://challenge-8-order-summary-component-main.vercel.app/)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+# Colores en CSS
 
 
-## Author
+👋 Bienvenidos a CodingTube, un canal dedicado a los apasionados por el código. Si te gusta programar y quieres aprender más acerca de este fascinante mundo, estás en el lugar indicado.
 
-- Website - [Add your name here](https://coding-tube.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CodinGitHub)
-- Twitter - [@yourusername](https://www.twitter.com/CodingTube)
+►SíGUEME AQUí:
+
+✅ [YouTube](https://www.youtube.com/CodingTube)
+
+✅ [TikTok](https://www.tiktok.com/@codingtube)
+
+✅ [WEB](https://coding-tube.com/)
+
+✅ [Twitter](https://twitter.com/CodingTube)
+
+►CURSOS:
+
+📕 [HTML5](https://bit.ly/CodingHTML01)
+
+📘 [CSS3](https://bit.ly/CodingCSS01)
+
+📙 [Javascript](http://bit.ly/CodingJS01)
