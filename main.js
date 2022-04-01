@@ -1,11 +1,13 @@
-let submitBtn = document.querySelector('input[type="text"]');
-submitBtn.addEventListener('click', ()=>{
-    console.log('Se ha realizado un click');
-});
+saludoBtn.addEventListener('click', saludo);
 
-// function saludo(event){
-//     console.log(event.target.innerHTML);
-// }
-
-// saludoBtn.addEventListener('click', saludo);
 // saludoBtn.removeEventListener('click', saludo);
+
+function saludo(event){
+    console.log(event.target.innerHTML);
+}
+
+userInput.addEventListener('keypress', (event)=>{
+    if(event.key === "Enter"){
+        console.log(event.target.value);
+    }
+});
